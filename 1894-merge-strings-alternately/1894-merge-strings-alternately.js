@@ -1,10 +1,11 @@
-const mergeAlternately=(a,b)=>{
-    const maxLength=Math.max(a.length, b.length);
-    let result='';
+const mergeAlternately=(word1,word2)=>{
+    let result = [];
+    let maxLength = Math.max(word1.length, word2.length);
 
-    for(let i=0; i<maxLength; i++){
-        result+=(a[i]||'')+(b[i]||'');
+    for(let i = 0; i < maxLength; i++){
+        if(word1[i]) result.push(word1[i])
+        if(word2[i]) result.push(word2[i])
     }
 
-    return result;
+    return result.join('')
 }
