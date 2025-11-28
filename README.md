@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/smosco/LeetCode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/smosco/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/smosco/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/smosco/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/smosco/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/smosco/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/smosco/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/smosco/LeetCode/tree/master/0091-decode-ways) |
 ## Backtracking
 |  |
