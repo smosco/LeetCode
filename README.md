@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/smosco/LeetCode/tree/master/0039-combination-sum) |
 | [0347-top-k-frequent-elements](https://github.com/smosco/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/smosco/LeetCode/tree/master/0091-decode-ways) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/smosco/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
