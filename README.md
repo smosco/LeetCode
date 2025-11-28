@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/smosco/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/smosco/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/smosco/LeetCode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/smosco/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/smosco/LeetCode/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/smosco/LeetCode/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
