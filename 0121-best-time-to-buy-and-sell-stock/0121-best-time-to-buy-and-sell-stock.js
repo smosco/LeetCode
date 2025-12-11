@@ -8,13 +8,18 @@
  * 시간 복잡도: O(n) - 배열을 한 번만 순회
  * 공간 복잡도: O(1) - 변수 2개만 사용
  */
+// Math.min/max 대신 조건문 사용
 const maxProfit = (prices) => {
-  let minPrice = Infinity;
+  let minPrice = prices[0];
   let maxProfit = 0;
 
-  for (const price of prices) {
-    minPrice = Math.min(minPrice, price);
-    maxProfit = Math.max(maxProfit, price - minPrice);
+  for (let i = 1; i < prices.length; i++) {
+    const price = prices[i];
+    if (price < minPrice) {
+      minPrice = price;
+    } else if (price - minPrice > maxProfit) {
+      maxProfit = price - minPrice;
+    }
   }
 
   return maxProfit;
